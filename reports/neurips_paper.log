@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2026.1.7)  7 JAN 2026 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2026.1.7)  7 JAN 2026 22:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./reports/neurips_paper.tex
-(reports/neurips_paper.tex
+**./neurips_paper.tex
+(neurips_paper.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -344,27 +344,27 @@ ftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count296
 \l__pdf_internal_box=\box53
-) (D:\CSE425_VAE\reports\neurips_paper.aux)
+) (neurips_paper.aux)
 \openout1 = `neurips_paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -426,21 +426,20 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 15.
- (D:\CSE425_VAE\reports\neurips_paper.out)
-(D:\CSE425_VAE\reports\neurips_paper.out)
+Package hyperref Info: Link coloring OFF on input line 23.
+ (neurips_paper.out) (neurips_paper.out)
 \@outlinefile=\write3
 \openout3 = `neurips_paper.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
 
 
 (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
 
 
 (C:\Users\Lenovo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -448,11 +447,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 [1
 
-{C:/Users/Lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+{C:/Users/Lenovo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+[3]
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.52 ...exttt{easy/results/metrics_comparison.csv}
+l.118 ...xttt{easy/results/metrics_comparison.csv}
                                                   .
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -460,7 +460,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 <recently read> \egroup 
                         
-l.52 ...exttt{easy/results/metrics_comparison.csv}
+l.118 ...xttt{easy/results/metrics_comparison.csv}
                                                   .
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -475,16 +475,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 \begin{table}[h]
-                     
+l.119 \begin{table}[h]
+                      
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
 \caption@ORI@xfloat ... \global \setbox \@currbox 
                                                   \color@vbox \normalcolor \...
-l.53 \begin{table}[h]
-                     
+l.119 \begin{table}[h]
+                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -494,8 +494,8 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    \vbox 
-l.53 \begin{table}[h]
-                     
+l.119 \begin{table}[h]
+                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -503,16 +503,16 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.65 
-     
+l.131 
+      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-<../easy/results/vae_tsne_true.png, id=71, 859.5312pt x 569.4876pt>
+<../easy/results/vae_tsne_true.png, id=121, 859.5312pt x 569.4876pt>
 File: ../easy/results/vae_tsne_true.png Graphic file (type png)
 <use ../easy/results/vae_tsne_true.png>
 Package pdftex.def Info: ../easy/results/vae_tsne_true.png  used on input line 
-68.
+134.
 (pdftex.def)             Requested size: 422.77664pt x 280.1202pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -520,7 +520,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.73 ...{medium/results/clustering_comparison.csv}
+l.139 ...medium/results/clustering_comparison.csv}
                                                   .
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -528,7 +528,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 <recently read> \egroup 
                         
-l.73 ...{medium/results/clustering_comparison.csv}
+l.139 ...medium/results/clustering_comparison.csv}
                                                   .
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -543,16 +543,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 \begin{table}[h]
-                     
+l.140 \begin{table}[h]
+                      
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
 \caption@ORI@xfloat ... \global \setbox \@currbox 
                                                   \color@vbox \normalcolor \...
-l.74 \begin{table}[h]
-                     
+l.140 \begin{table}[h]
+                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -562,8 +562,8 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    \vbox 
-l.74 \begin{table}[h]
-                     
+l.140 \begin{table}[h]
+                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -571,16 +571,16 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.87 
-     
+l.153 
+      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-<../medium/results/hybrid_tsne_true.png, id=73, 859.2903pt x 569.4876pt>
+<../medium/results/hybrid_tsne_true.png, id=123, 859.2903pt x 569.4876pt>
 File: ../medium/results/hybrid_tsne_true.png Graphic file (type png)
 <use ../medium/results/hybrid_tsne_true.png>
 Package pdftex.def Info: ../medium/results/hybrid_tsne_true.png  used on input 
-line 90.
+line 156.
 (pdftex.def)             Requested size: 422.77664pt x 280.18971pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -588,7 +588,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.95 ...hard/results/comprehensive_comparison.csv}
+l.161 ...ard/results/comprehensive_comparison.csv}
                                                    (selected methods).
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -596,7 +596,7 @@ you left one out. Proceed, with fingers crossed.
 ! Extra }, or forgotten $.
 <recently read> \egroup 
                         
-l.95 ...hard/results/comprehensive_comparison.csv}
+l.161 ...ard/results/comprehensive_comparison.csv}
                                                    (selected methods).
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -611,16 +611,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 \begin{table}[h]
-                     
+l.162 \begin{table}[h]
+                      
 You've lost some text.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 ! Undefined control sequence.
 \caption@ORI@xfloat ... \global \setbox \@currbox 
                                                   \color@vbox \normalcolor \...
-l.96 \begin{table}[h]
-                     
+l.162 \begin{table}[h]
+                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -630,8 +630,8 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    \vbox 
-l.96 \begin{table}[h]
-                     
+l.162 \begin{table}[h]
+                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -639,140 +639,1064 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.111 
+l.177 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-<../hard/results/comprehensive_comparison.png, id=74, 1297.7283pt x 352.6776pt>
-
+<../hard/results/comprehensive_comparison.png, id=124, 1297.7283pt x 352.6776pt
+>
 File: ../hard/results/comprehensive_comparison.png Graphic file (type png)
 <use ../hard/results/comprehensive_comparison.png>
 Package pdftex.def Info: ../hard/results/comprehensive_comparison.png  used on 
-input line 114.
+input line 180.
 (pdftex.def)             Requested size: 422.77664pt x 114.89331pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (41.87819pt too wide) in paragraph at lines 119--120
-\OT1/cmtt/m/n/10.95 VAE latents improve clustering metrics over PCA, indicating
- non-linear embeddings capture
+Overfull \hbox (36.1295pt too wide) in paragraph at lines 186--187
+\OT1/cmtt/m/n/10.95 VAE-based latent representations consistently outperform PC
+A baselines across all tasks,
  []
 
 
-Overfull \hbox (13.13475pt too wide) in paragraph at lines 119--120
-\OT1/cmtt/m/n/10.95 genre-relevant structure from audio features. HybridVAE lev
-erages lyrics to further
+Overfull \hbox (53.37556pt too wide) in paragraph at lines 186--187
+\OT1/cmtt/m/n/10.95 demonstrating that non-linear embeddings capture genre-rele
+vant structure more effectively.
  []
 
 
-Overfull \hbox (30.38081pt too wide) in paragraph at lines 119--120
-\OT1/cmtt/m/n/10.95 increase Silhouette and NMI under Agglomerative/K-Means. In
- the hard setting, Beta-VAE
+Overfull \hbox (24.63213pt too wide) in paragraph at lines 186--187
+\OT1/cmtt/m/n/10.95 The basic VAE (Easy task) achieves Silhouette scores of 0.2
+76 compared to PCA's 0.116,
+ []
+
+[4]
+Overfull \hbox (18.88344pt too wide) in paragraph at lines 189--190
+\OT1/cmtt/m/n/10.95 The HybridVAE (Medium task) leverages complementary informa
+tion from audio and lyrics
  []
 
 
-Overfull \hbox (14.00574pt too wide) in paragraph at lines 119--120
-\OT1/cmtt/m/n/10.95 with $\OML/cmm/m/it/10.95 ^^L \OT1/cmr/m/n/10.95 = 4\OML/cm
-m/m/it/10.95 :\OT1/cmr/m/n/10.95 0$ \OT1/cmtt/m/n/10.95 shows moderate latent s
-eparation but does not surpass hybrid clustering;
+Overfull \hbox (24.63213pt too wide) in paragraph at lines 189--190
+\OT1/cmtt/m/n/10.95 to further improve clustering quality. Agglomerative cluste
+ring on Hybrid VAE latents
  []
 
 
-Overfull \hbox (38.8975pt too wide) in paragraph at lines 119--120
-\OT1/cmtt/m/n/10.95 CVAE conditioning yields modest gains, likely limited by sa
-mple size ($\OMS/cmsy/m/n/10.95 ^^X$\OT1/cmtt/m/n/10.95 122) and modality
- []
-
-[2]
-Overfull \hbox (36.1295pt too wide) in paragraph at lines 122--123
-\OT1/cmtt/m/n/10.95 Multi-modal VAEs provide promising improvements for genre c
-lustering on GTZAN. HybridVAE
+Overfull \hbox (24.63213pt too wide) in paragraph at lines 189--190
+\OT1/cmtt/m/n/10.95 achieves Silhouette score 0.289 and Purity 0.516, outperfor
+ming audio-only approaches.
  []
 
 
-Overfull \hbox (30.38081pt too wide) in paragraph at lines 122--123
-\OT1/cmtt/m/n/10.95 offers the best overall balance in this project. Future wor
-k includes larger datasets,
+Overfull \hbox (53.37556pt too wide) in paragraph at lines 189--190
+\OT1/cmtt/m/n/10.95 This validates the hypothesis that textual content provides
+ semantic information orthogonal
  []
 
 
-Overfull \hbox (47.62688pt too wide) in paragraph at lines 122--123
-\OT1/cmtt/m/n/10.95 spectrogram-based ConvVAEs, improved lyric embeddings, and 
-end-to-end multimodal training. 
+Overfull \hbox (82.98999pt too wide) in paragraph at lines 192--193
+\OT1/cmtt/m/n/10.95 Beta-VAE with $\OML/cmm/m/it/10.95 ^^L \OT1/cmr/m/n/10.95 =
+ 4\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 0$ \OT1/cmtt/m/n/10.95 demonstrates i
+mproved latent space organization with high Calinski-Harabasz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Overfull \hbox (13.13475pt too wide) in paragraph at lines 192--193
+\OT1/cmtt/m/n/10.95 scores (94.75) but does not consistently improve supervised
+ clustering metrics (ARI,
+ []
+
+
+Overfull \hbox (1.63737pt too wide) in paragraph at lines 192--193
+\OT1/cmtt/m/n/10.95 NMI). This suggests a tension between disentanglement objec
+tives and task-specific
+ []
+
+
+Overfull \hbox (54.39839pt too wide) in paragraph at lines 192--193
+\OT1/cmtt/m/n/10.95 clustering performance. Higher $\OML/cmm/m/it/10.95 ^^L$ \O
+T1/cmtt/m/n/10.95 values (10.0) degrade reconstruction quality excessively,
+ []
+
+[5 <../easy/results/vae_tsne_true.png>]
+Overfull \hbox (24.63213pt too wide) in paragraph at lines 195--196
+\OT1/cmtt/m/n/10.95 CVAE enables genre-conditioned synthesis but shows modest c
+lustering improvements (ARI
+ []
+
+
+Overfull \hbox (18.88344pt too wide) in paragraph at lines 195--196
+\OT1/cmtt/m/n/10.95 0.017, NMI 0.171) on the Hard task. The limited sample size
+ (122 samples) constrains
+ []
+
+
+Overfull \hbox (18.88344pt too wide) in paragraph at lines 195--196
+\OT1/cmtt/m/n/10.95 the model's ability to learn robust conditional distributio
+ns. With larger datasets,
+ []
+
+
+Overfull \hbox (41.87819pt too wide) in paragraph at lines 195--196
+\OT1/cmtt/m/n/10.95 CVAE could provide controllable generation capabilities for
+ music synthesis applications. 
+ []
+
+
+Overfull \hbox (1.63737pt too wide) in paragraph at lines 198--199
+\OT1/cmtt/m/n/10.95 The primary limitation is dataset size, particularly for th
+e Medium and Hard tasks
+ []
+
+
+Overfull \hbox (7.38606pt too wide) in paragraph at lines 198--199
+\OT1/cmtt/m/n/10.95 (122 samples). This restricts model capacity and prevents f
+ull utilization of deep
+ []
+
+
+Overfull \hbox (36.1295pt too wide) in paragraph at lines 198--199
+\OT1/cmtt/m/n/10.95 neural architectures. Additionally, the tabular feature rep
+resentation (MFCCs, spectral
+ []
+
+
+Overfull \hbox (7.38606pt too wide) in paragraph at lines 198--199
+\OT1/cmtt/m/n/10.95 features) loses temporal dynamics present in raw audio. Fut
+ure work should address
+ []
+
+[6 <../medium/results/hybrid_tsne_true.png>]
+Overfull \hbox (7.38606pt too wide) in paragraph at lines 208--209
+\OT1/cmtt/m/n/10.95 This comprehensive study demonstrates the effectiveness of 
+Variational Autoencoders
+ []
+
+
+Overfull \hbox (7.38606pt too wide) in paragraph at lines 208--209
+\OT1/cmtt/m/n/10.95 for unsupervised music genre representation learning on the
+ GTZAN dataset. Through
+ []
+
+
+Overfull \hbox (34.76112pt too wide) in paragraph at lines 211--212
+[]\OT1/cmtt/m/n/10.95 VAE-based latent representations significantly outperform
+ traditional PCA baselines
+ []
+
+
+Overfull \hbox (6.01768pt too wide) in paragraph at lines 212--213
+[]\OT1/cmtt/m/n/10.95 Multi-modal fusion through Hybrid VAE architectures effec
+tively combines audio
+ []
+
+
+Overfull \hbox (29.01244pt too wide) in paragraph at lines 213--214
+[]\OT1/cmtt/m/n/10.95 Beta-VAE variants enable control over latent space disent
+anglement, though optimal
+ []
+
+
+Overfull \hbox (17.51506pt too wide) in paragraph at lines 214--215
+[]\OT1/cmtt/m/n/10.95 Conditional VAEs provide a foundation for controllable mu
+sic generation, pending
+ []
+
+
+Overfull \hbox (64.62688pt too wide) in paragraph at lines 217--218
+[]\OT1/cmtt/m/n/10.95 The modular implementation structure (easy/, medium/, har
+d/ tasks) facilitates incremental
+ []
+
+
+Overfull \hbox (13.13475pt too wide) in paragraph at lines 217--218
+\OT1/cmtt/m/n/10.95 complexity and reproducibility. All code, models, and compr
+ehensive results reports
+ []
+
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 219.
+
+Overfull \hbox (18.63737pt too wide) in paragraph at lines 219--220
+[]\OT1/cmtt/m/n/10.95 Future Directions: Promising extensions include: (1) conv
+olutional architectures
+ []
+
+
+Overfull \hbox (18.88344pt too wide) in paragraph at lines 219--220
+\OT1/cmtt/m/n/10.95 for spectrogram processing, (2) recurrent or transformer-ba
+sed encoders for capturing
+ []
+
+
+Overfull \hbox (7.38606pt too wide) in paragraph at lines 219--220
+\OT1/cmtt/m/n/10.95 temporal dynamics, (3) contrastive learning objectives for 
+improved separation, (4)
+ []
+
+
+Overfull \hbox (30.38081pt too wide) in paragraph at lines 219--220
+\OT1/cmtt/m/n/10.95 cross-modal attention mechanisms for refined fusion, and (5
+) evaluation on larger-scale
+ []
+
+
+Overfull \hbox (1.63737pt too wide) in paragraph at lines 219--220
+\OT1/cmtt/m/n/10.95 datasets such as Million Song Dataset or AudioSet. These di
+rections could advance
+ []
+
+
+Overfull \hbox (13.13475pt too wide) in paragraph at lines 219--220
+\OT1/cmtt/m/n/10.95 VAE-based music understanding toward practical recommendati
+on systems and generative
+ []
+
+
+Overfull \hbox (7.38606pt too wide) in paragraph at lines 222--223
+\OT1/cmtt/m/n/10.95 This work was completed as part of CSE425 (Pattern Recognit
+ion and Neural Networks)
+ []
+
+
+Overfull \hbox (18.88344pt too wide) in paragraph at lines 222--223
+\OT1/cmtt/m/n/10.95 at BRAC University. We thank the course instructors for the
+ir guidance and the GTZAN
+ []
+
+[7 <../hard/results/comprehensive_comparison.png>]
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character │ (U+2502)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character └ (U+2514)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ├ (U+251C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character └ (U+2514)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character ─ (U+2500)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243 \end{verbatim}
+                    
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
+248.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 248.
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 248.
+
+
+Overfull \hbox (34.21376pt too wide) in paragraph at lines 248--249
+[]\OT1/cmtt/m/n/10.95 Latent dimensions: tested \OMS/cmtt/m/n/10.95 f\OT1/cmtt/
+m/n/10.95 32, 64, 128, 256\OMS/cmtt/m/n/10.95 g\OT1/cmtt/m/n/10.95 , selected 1
+28 for balance of capacity
+ []
+
+
+Overfull \hbox (16.9677pt too wide) in paragraph at lines 249--250
+[]\OT1/cmtt/m/n/10.95 Learning rates: tested \OMS/cmtt/m/n/10.95 f\OT1/cmtt/m/n
+/10.95 1e-4, 5e-4, 1e-3, 5e-3\OMS/cmtt/m/n/10.95 g\OT1/cmtt/m/n/10.95 , selecte
+d 5e-4 to 1e-3 based on
+ []
+
+
+Overfull \hbox (1.63737pt too wide) in paragraph at lines 255--256
+\OT1/cmtt/m/n/10.95 All experiments were conducted on a single NVIDIA GPU (or C
+PU for smaller models).
+ []
+
+
+Overfull \hbox (30.38081pt too wide) in paragraph at lines 255--256
+\OT1/cmtt/m/n/10.95 Total training time across all tasks: approximately 2-3 hou
+rs. Models are lightweight
+ []
+
+
+Overfull \hbox (76.37032pt too wide) in paragraph at lines 258--259
+\OT1/cmtt/m/n/10.95 Random seeds are fixed across all experiments. Requirements
+ are specified in requirements.txt.
+ []
+
+
+Overfull \hbox (11.52512pt too wide) in paragraph at lines 258--259
+\OT1/cmtt/m/n/10.95 Each task generates a comprehensive RESULTS[]REPORT.md docu
+menting findings, metrics,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 []\OT1/cmtt/m/n/10.95 Diederik P. Kingma and Max Welling. Auto-Encoding Variati
-onal Bayes. \OT1/cmtt/m/it/10.95 ICLR\OT1/cmtt/m/n/10.95 ,
+onal Bayes. In
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+[]\OT1/cmtt/m/n/10.95 Irina Higgins, Loic Matthey, Arka Pal, Christopher Burges
+s, Xavier Glorot,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
-[]\OT1/cmtt/m/n/10.95 Irina Higgins et al. beta-VAE: Learning Basic Visual Conc
-epts with a
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmtt/m/n/10.95 Matthew Botvinick, Shakir Mohamed, and Alexander Lerchner. 
+beta-VAE:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
-[]\OT1/cmtt/m/n/10.95 Kihyuk Sohn, Honglak Lee, Xinchen Yan. Learning Structure
-d Output
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmtt/m/n/10.95 Learning Basic Visual Concepts with a Constrained Variation
+al Framework.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\OT1/cmtt/m/n/10.95 Kihyuk Sohn, Honglak Lee, and Xinchen Yan. Learning Struc
+tured Output
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\OT1/cmtt/m/n/10.95 Representation using Deep Conditional Generative Models. In
+ \OT1/cmtt/m/it/10.95 Advances in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
 []\OT1/cmtt/m/n/10.95 George Tzanetakis and Perry Cook. Musical genre classific
 ation of audio
  []
 
-[3 <D:/CSE425_VAE/easy/results/vae_tsne_true.png>] [4 <D:/CSE425_VAE/medium/res
-ults/hybrid_tsne_true.png>] [5 <D:/CSE425_VAE/hard/results/comprehensive_compar
-ison.png>] (D:\CSE425_VAE\reports\neurips_paper.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--269
+\OT1/cmtt/m/n/10.95 signals. \OT1/cmtt/m/it/10.95 IEEE Transactions on Audio, S
+peech, and Language Processing\OT1/cmtt/m/n/10.95 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+[]\OT1/cmtt/m/n/10.95 Stuart Lloyd. Least squares quantization in PCM. \OT1/cmt
+t/m/it/10.95 IEEE Transactions on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+[]\OT1/cmtt/m/n/10.95 Martin Ester, Hans-Peter Kriegel, J^^?org Sander, and Xia
+owei Xu. A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+\OT1/cmtt/m/n/10.95 density-based algorithm for discovering clusters in large s
+patial databases
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+[]\OT1/cmtt/m/n/10.95 Laurens van der Maaten and Geoffrey Hinton. Visualizing d
+ata using t-SNE.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+[]\OT1/cmtt/m/n/10.95 Leland McInnes, John Healy, and James Melville. UMAP: Uni
+form Manifold
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+\OT1/cmtt/m/n/10.95 Approximation and Projection for Dimension Reduction. \OT1/
+cmtt/m/it/10.95 arXiv preprint
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+[]\OT1/cmtt/m/n/10.95 Danilo Jimenez Rezende, Shakir Mohamed, and Daan Wierstra
+. Stochastic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\OT1/cmtt/m/n/10.95 backpropagation and approximate inference in deep generativ
+e models. In
+ []
+
+[9] (neurips_paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `neurips_paper.out' has not changed.
-(rerunfilecheck)             Checksum: CF6DC41EC50D9F94DD0874002A55143A;2023.
+(rerunfilecheck)             Checksum: DCAA7CA0D8E1654D12F056A76DB60628;3720.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 95 ({)
-### simple group (level 2) entered at line 73 ({)
-### simple group (level 1) entered at line 52 ({)
+### simple group (level 3) entered at line 161 ({)
+### simple group (level 2) entered at line 139 ({)
+### simple group (level 1) entered at line 118 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11228 strings out of 474486
- 181111 string characters out of 5743284
- 1935542 words of memory out of 5000000
- 33355 multiletter control sequences out of 15000+600000
- 568124 words of font info for 76 fonts, out of 8000000 for 9000
+ 11295 strings out of 474486
+ 182075 string characters out of 5743284
+ 1938542 words of memory out of 5000000
+ 33394 multiletter control sequences out of 15000+600000
+ 569634 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,713b,780s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Lenovo/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Users/Lenovo/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Le
-novo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:
-/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
-8.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Lenovo/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Lenovo/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Lenovo/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users
-/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm1
-0.pfb>
-Output written on D:\CSE425_VAE\reports\neurips_paper.pdf (5 pages, 987259 byte
-s).
+ 75i,11n,79p,1398b,782s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Lenovo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\tcrm1095.pk><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lenovo/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Lenovo/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Users/Lenov
+o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/U
+sers/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.
+pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Lenovo/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Lenovo/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Lenovo/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/L
+enovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><
+C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmtt12.pfb><C:/Users/Lenovo/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/symbols/msbm10.pfb>
+Output written on neurips_paper.pdf (9 pages, 1050467 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 266 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 184 words of extra memory for PDF output out of 10000 (max. 10000000)
 
